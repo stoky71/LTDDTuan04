@@ -19,7 +19,7 @@
             android:layout_height="100dp"
             android:contentDescription="@null"
             android:gravity="center"
-            android:src="@drawable/CaMi" />
+            android:src="@drawable/cami" />
 
     </LinearLayout>
 

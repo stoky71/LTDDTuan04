@@ -65,22 +65,22 @@ public class LanguageAdapter extends BaseAdapter {
             int idLanguage = language.getId();
             switch (idLanguage) {
                 case 1:
-                    imageView.setImageResource(R.drawable.CaMi);
+                    imageView.setImageResource(R.drawable.cami);
                     break;
                 case 2:
-                    imageView.setImageResource(R.drawable.gaKho);
+                    imageView.setImageResource(R.drawable.gakho);
                     break;
                 case 3:
-                    imageView.setImageResource(R.drawable.XeCauDoChoi);
+                    imageView.setImageResource(R.drawable.xecau);
                     break;
                 case 4:
-                    imageView.setImageResource(R.drawable.xeCUuHoa);
+                    imageView.setImageResource(R.drawable.xecuuhoa);
                     break;
                 case 5:
-                    imageView.setImageResource(R.drawable.LanhDaoGianDOn);
+                    imageView.setImageResource(R.drawable.lanhdao);
                     break;
                 case 6:
-                    imageView.setImageResource(R.drawable.HieuLongConTrer);
+                    imageView.setImageResource(R.drawable.hieulong);
                     break;
                 default:
                     break;
